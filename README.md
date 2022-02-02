@@ -26,26 +26,34 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## First Name Last Name
+Keston Timson
+
 ## Installation
 
 ```bash
-$ npm install
+$ npm install or
+$ yarn
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+$ npm run start or yarn start
 
 # watch mode
-$ npm run start:dev
+$ npm run start:dev or yarn start:dev
 
 # production mode
-$ npm run start:prod
-```
+$ npm run start:prod or yarn start:prod
 
-## Test
+```
+## To test
+
+## Test this: Write an algorithm that generates the average time it takes to move between each bus stop along the route for the one month period.
+Call this endpoint: http://localhost:4900/api/geocode/3
+Where /3 is the boundary_id
 
 ```bash
 # unit tests
